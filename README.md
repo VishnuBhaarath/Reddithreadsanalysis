@@ -6,4 +6,8 @@ Influencer Definition:Influencers are the person who has specialized knowledge,s
    pip install pandas<br/>
    pip install json <br/>
    pip install collections-extended<br/>
+ Should work with most of the versions but it's better to upgrade to the latest version by creating a virtual environment and working in that<br/>
+ 
+ 
+ 
 
